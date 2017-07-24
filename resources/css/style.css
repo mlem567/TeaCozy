@@ -41,3 +41,7 @@ head {
 html{
   display: block;
 }
+
+a{
+  color: seashell;
+}
