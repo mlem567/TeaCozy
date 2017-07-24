@@ -73,8 +73,7 @@ h2, h3, h4{
 #mission{
   height: 700px;
   padding-top: 70px;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
-
+  background-image: url("resources/images/img-mission-background.jpg");
 }
 
 #mission .content{
