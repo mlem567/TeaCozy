@@ -99,13 +99,19 @@ div{
     flex-wrap: wrap;
   }
 
-  .item {
+.item {
     padding: 5px;
   }
 
-  .item span {
+.item span {
     display: block;
     padding: 5px;
     font-weight: bold;
     text-align: center;
   }
+
+.item img {
+    height: 200px;
+    margin: 10px;
+    display: block;
+}
