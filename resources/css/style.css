@@ -99,18 +99,18 @@ div{
     flex-wrap: wrap;
   }
 
-.item {
+.items {
     padding: 5px;
   }
 
-.item span {
+.items span {
     display: block;
     padding: 5px;
     font-weight: bold;
     text-align: center;
   }
 
-.item img {
+.items img {
     height: 200px;
     margin: 10px;
     display: block;
